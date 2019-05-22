@@ -17,9 +17,3 @@ for i in range(l):
             sum += el
             el = 0
 print('Sum:', sum)
-'''echo "# Python_Homework" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/AlexandraFilistovich/Python_Homework.git
-git push -u origin master'''
